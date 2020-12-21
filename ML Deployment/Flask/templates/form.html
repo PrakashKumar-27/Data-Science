@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>FORM</title>
+    </head>
+    <body>
+        <form method="POST" action="{{ url_for('predict')}}">
+            <input type='text' name='exp' placeholder="Write your name" required='required' />
+            <input type='number' name='score' placeholder="score" required='required'/>
+            <input type='number' name='points' placeholder="points" required='required'/>            
+            <button type='submit' class='btn btn-primary'>predict</button>
+        </form>
+    </body>
+</html>
