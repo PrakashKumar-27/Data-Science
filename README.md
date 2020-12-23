@@ -1,3 +1,3 @@
 # Data-science
 
-I am commiting my Data Science Learnings and practice files here.
+I am commiting my Data Science learning concepts and practice files and projects here.
