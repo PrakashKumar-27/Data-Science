@@ -1,0 +1,54 @@
+2021-04-04 05:29:38,393 test log
+2021-04-04 05:29:39,181 this is the first warning of my program to modify
+2021-04-04 05:29:40,159 this is error msg
+2021-04-04 05:31:51,545 Error has occured
+2021-04-04 05:31:51,545 name 'log' is not defined
+Traceback (most recent call last):
+  File "<ipython-input-9-669bbe0fe8ca>", line 3, in test
+    log.info(str(a)+str(b))
+NameError: name 'log' is not defined
+2021-04-04 05:32:24,033 Error has occured
+2021-04-04 05:32:24,033 name 'log' is not defined
+Traceback (most recent call last):
+  File "<ipython-input-11-0cd93cc067fe>", line 3, in test
+    log.info(str(a)+str(b))
+NameError: name 'log' is not defined
+2021-04-04 05:41:12,566 this is for error log
+2021-04-04 05:41:23,792 this is for warning
+2021-04-04 05:41:36,939 this is info log
+2021-04-04 05:42:02,520 this is exception log
+NoneType: None
+2021-04-04 05:42:14,990 this is critical log
+2021-04-04 05:56:11,220 sum of integers is 15
+2021-04-04 05:56:18,927 This is the test string
+2021-04-04 05:58:06,303 sum of integers is 15
+2021-04-04 05:58:12,442 test string
+2021-04-04 05:58:12,442 user instruction: 
+ #4. Give user instruction in log file 
+ 5. read a log from python code and show all the logging in console
+2021-04-04 05:59:15,492 sum of integers is 15
+2021-04-04 05:59:17,943 test
+2021-04-04 05:59:17,944 user instruction: 
+ #4. Give user instruction in log file 
+ 5. read a log from python code and show all the logging in console
+2021-04-04 06:05:33,715 addition operation
+2021-04-04 06:05:33,716 user input is:1
+2021-04-04 06:05:33,716 sum of the user input is : 1
+2021-04-04 06:05:33,716 user input is:2
+2021-04-04 06:05:33,716 sum of the user input is : 3
+2021-04-04 06:05:33,716 user input is:3
+2021-04-04 06:05:33,716 sum of the user input is : 6
+2021-04-04 06:05:33,716 user input is:4
+2021-04-04 06:05:33,716 sum of the user input is : 10
+2021-04-04 06:05:33,716 user input is:5
+2021-04-04 06:05:33,716 sum of the user input is : 15
+2021-04-04 06:05:33,717 sum of integers is 15
+2021-04-04 06:21:58,823 this is my first test code for log
+2021-04-04 06:24:14,867 this is for logger 1
+2021-04-04 06:24:14,868 this is info for logger 2
+2021-04-04 06:24:34,525 this is my first test code for log
+2021-04-04 06:24:36,216 this is for logger 1
+2021-04-04 06:24:36,218 this is info for logger 2
+2021-04-04 06:25:04,671 this is my first test code for log
+2021-04-04 06:25:07,961 this is for logger 1
+2021-04-04 06:25:07,966 this is info for logger 2

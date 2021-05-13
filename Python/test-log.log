@@ -1,0 +1,30 @@
+2021-04-04 06:26:23,769 INFO this is my first test code for log
+2021-04-04 06:26:30,983 INFO this is for logger 1
+2021-04-04 06:26:30,984 INFO this is info for logger 2
+2021-04-04 06:28:21,215 INFO this is my first test code for log
+2021-04-04 06:28:23,397 INFO this is for logger 1
+2021-04-04 06:28:23,399 DEBUG this is debug for logger 2
+2021-04-04 06:28:23,399 INFO this is info for logger 2
+2021-04-04 06:30:13,985 INFO this is my first test code for log
+2021-04-04 06:30:13,987 INFO this is for logger 1
+2021-04-04 06:30:13,988 DEBUG this is debug for logger 2
+2021-04-04 06:30:13,989 INFO this is info for logger 2
+2021-04-04 06:31:30,144 INFO this is my first test code for log
+2021-04-04 06:31:30,150 INFO this is for logger 1
+2021-04-04 06:31:30,152 DEBUG this is debug for logger 2
+2021-04-04 06:31:30,152 INFO this is info for logger 2
+2021-04-04 06:32:13,748 root INFO this is my first test code for log
+2021-04-04 06:32:13,752 logger1.area1 INFO this is for logger 1
+2021-04-04 06:32:13,753 logger1.area2 DEBUG this is debug for logger 2
+2021-04-04 06:32:13,753 logger1.area2 INFO this is info for logger 2
+2021-04-04 06:53:45,668 root INFO this is my first test code for log
+2021-04-04 06:53:45,670 logger1.area1 INFO this is for logger 1
+2021-04-04 06:53:45,673 logger1.area2 DEBUG this is debug for logger 2
+2021-04-04 06:53:45,673 logger1.area2 INFO this is info for logger 2
+2021-04-04 06:58:44,121 root INFO main log
+2021-04-04 06:58:44,125 user1 INFO this is from user1 info
+2021-04-04 06:58:44,128 user2 DEBUG This is from user2 debug
+2021-04-04 06:59:46,415 root INFO this is my first test code for log
+2021-04-04 06:59:46,419 logger1.area1 INFO this is for logger 1
+2021-04-04 06:59:46,422 logger1.area2 DEBUG this is debug for logger 2
+2021-04-04 06:59:46,423 logger1.area2 INFO this is info for logger 2
